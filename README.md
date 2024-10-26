@@ -1,5 +1,1 @@
-# Getting Started with 2048
-
-This game (2048) was built using **React** and **TypeScript**. The unique part of this example is animations. The animations in React aren't that straightforward, so I hope you can learn something new from it.
-
-
+Add these DevOps tools file to application to perform automation testing by Jenkins, Docker and will be able to get the result in SonarQube container
